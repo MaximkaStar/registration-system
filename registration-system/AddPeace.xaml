@@ -1,0 +1,20 @@
+﻿<Window x:Class="registration_system.AddPeace"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:registration_system"
+        mc:Ignorable="d"
+        Title="AddPeace" Height="450" Width="800">
+    <Grid Margin="0,0,2,10">
+        <TextBlock HorizontalAlignment="Left" Margin="10,147,0,0" TextWrapping="Wrap" Text="TypeOfOperation" VerticalAlignment="Top"/>
+        <ComboBox Name="BoxItem" HorizontalAlignment="Left" Margin="127,147,0,0" VerticalAlignment="Top" Width="120" Height="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,91,0,0" TextWrapping="Wrap" Text="NameOfProduct" VerticalAlignment="Top"/>
+        <TextBox Name="CountItem" HorizontalAlignment="Left" Height="23" Margin="106,38,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Button Name="SaveButton" Content="Save" HorizontalAlignment="Left" Margin="172,186,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="ButtonClick"/>
+        <TextBox Name="TextItem" HorizontalAlignment="Left" Height="23" Margin="106,87,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,45,0,0" TextWrapping="Wrap" Text="Ammout" VerticalAlignment="Top"/>
+        
+
+    </Grid>
+</Window>

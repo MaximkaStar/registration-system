@@ -1,0 +1,17 @@
+C:\Users\Стасися\source\repos\registration-system\registration-system\obj\Debug\registration-system.csprojResolveAssemblyReference.cache
+C:\Users\Стасися\source\repos\registration-system\registration-system\obj\Debug\AddPeace.g.cs
+C:\Users\Стасися\source\repos\registration-system\registration-system\obj\Debug\MainWindow.g.cs
+C:\Users\Стасися\source\repos\registration-system\registration-system\obj\Debug\App.g.cs
+C:\Users\Стасися\source\repos\registration-system\registration-system\obj\Debug\registration-system_MarkupCompile.cache
+C:\Users\Стасися\source\repos\registration-system\registration-system\obj\Debug\registration-system_MarkupCompile.lref
+C:\Users\Стасися\source\repos\registration-system\registration-system\bin\Debug\registration-system.exe.config
+C:\Users\Стасися\source\repos\registration-system\registration-system\bin\Debug\registration-system.exe
+C:\Users\Стасися\source\repos\registration-system\registration-system\bin\Debug\registration-system.pdb
+C:\Users\Стасися\source\repos\registration-system\registration-system\obj\Debug\AddPeace.baml
+C:\Users\Стасися\source\repos\registration-system\registration-system\obj\Debug\MainWindow.baml
+C:\Users\Стасися\source\repos\registration-system\registration-system\obj\Debug\registration-system.g.resources
+C:\Users\Стасися\source\repos\registration-system\registration-system\obj\Debug\registration_system.Properties.Resources.resources
+C:\Users\Стасися\source\repos\registration-system\registration-system\obj\Debug\registration-system.csproj.GenerateResource.cache
+C:\Users\Стасися\source\repos\registration-system\registration-system\obj\Debug\registration-system.csproj.CoreCompileInputs.cache
+C:\Users\Стасися\source\repos\registration-system\registration-system\obj\Debug\registration-system.exe
+C:\Users\Стасися\source\repos\registration-system\registration-system\obj\Debug\registration-system.pdb
